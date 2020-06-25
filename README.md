@@ -1,1 +1,3 @@
 # 20-1 C프로그래밍
+
+#### _CRT_SECURE_NO_WARNINGS
