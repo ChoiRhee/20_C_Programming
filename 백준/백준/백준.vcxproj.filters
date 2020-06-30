@@ -15,8 +15,32 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="1000.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1001.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1008.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2588.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10430.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10869.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10998.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="강아지.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="고양이.c">
-      <Filter>헤더 파일</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
